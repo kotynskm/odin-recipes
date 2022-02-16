@@ -1,0 +1,46 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    background-color: blanchedalmond;
+}
+
+a {
+    font-size: 20px;
+    color: darkblue;
+}
+
+a:hover {
+    color: hsl(352, 69%, 78%);
+}
+
+ul {
+    text-align: center;
+    display: table;
+    margin: auto;
+}
+
+img {
+    border: dotted;
+    border-color: black;
+    border-width: 5px;
+}
+
+ li {
+    text-align: left;
+}
+
+ol {
+    text-align: center;
+    display: table;
+    margin: auto;
+}
+
+.title {
+    font-size: 70px;
+    border: solid;
+    border-color: black;
+    border-width: 5px;
+    border-radius: 15px;
+}
+
+
